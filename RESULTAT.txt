@@ -1,0 +1,1 @@
+Hvis jeg redigerer i dette dokument, så ændres status højest sandsynligt til untracked, ikke? Og hvor lang en linje, kan jeg egentligh skrive, før en ny linje start? Det er jo ikke fordi det er særligt hensigtsmæssigt præsenterert i denne text editor, men nu må vi se, hvor godt, den klarer det. Punktum.
